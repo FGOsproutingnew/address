@@ -1,0 +1,74 @@
+li{
+    list-style: none;
+    color: #3f84f6;
+}
+body{
+    font-size: 16px;
+    background: #ffffff;
+}
+header{
+    width: 100%;
+}
+img{
+    width: 1.4rem;
+    height: 1.4rem;
+    margin: 0.25rem;
+    float: left;
+    border-radius: 50%;
+}
+h1{
+    float: left;
+    margin-left: 0.25rem;
+}
+input{
+    height: 0.26rem;
+    padding: 0.2rem;
+    width: 92%;
+    border-radius: 0.2rem;
+    border: none;
+    outline: none;
+    background: #e7e7e9;
+    margin-left: 0.07rem;
+}
+body{
+    margin: 0;
+}
+.box .a{
+    height: 0.56rem;
+    width: 100%;
+    background: #f2f2f2;
+
+}
+p{
+    display: block;
+    margin-left: 0.34rem;
+    padding-top: 0.1rem;
+
+}
+span{
+    margin-left: 0.34rem;
+
+}
+.box .b{
+    width: 100%;
+    background: #ffffff;
+    margin-top: 0.1rem;
+}
+.initial{
+    position: fixed;
+    top: 3rem;
+    right: 0.1rem;
+}
+.initial li{
+    font-size: 0.2rem;
+    margin-top: 0.1rem;
+    text-align: center;
+}
+.add{
+    position: absolute;
+    top: 0;
+    left: 6rem;
+    font-size: 1rem;
+}
+
+

@@ -1,0 +1,21 @@
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, form, able, input, textarea, select{
+    margin: 0;
+    padding: 0;
+    list-style: none;  /*去掉以上标签自身属性*/
+}
+a{
+    color:#3bacfe;
+    text-decoration: none;    /*修改连接自身属性*/
+}
+/*a:hover{*/
+/*    color: blue;    !*改变连接颜色*!*/
+/*}*/
+body{
+    background-color:#ffffff;
+    font: 16px/1.5 sana-serif;
+}
+img{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
